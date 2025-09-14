@@ -147,9 +147,3 @@ spy-cam-security-system
 4. Trigger the PIR sensor → receive email alert with snapshot!
 
 ---
-
-## 🛡️ License
-
-This project is licensed under the **MIT License** – feel free to modify and use it for personal or educational purposes.
-
----
